@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/39ad8ce30f1940971429fd3b173523c1_MITRES_6_002S08_chapter3.pdf
+file: /media/courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/39ad8ce30f1940971429fd3b173523c1_MITRES_6_002S08_chapter3.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Textbook contents
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: "Electromagnetic Field Theory - A Problem-Solving Approach \u2013 Chapter 3:\
   \ Sections 3.1-3.10"

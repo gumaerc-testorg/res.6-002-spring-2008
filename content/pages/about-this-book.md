@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: About this book
 uid: 3d3d7939-a6f1-a639-d546-f863d6a69b7b
 ---

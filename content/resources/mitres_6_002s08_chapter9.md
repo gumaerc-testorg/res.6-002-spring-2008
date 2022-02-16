@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/8d15e7ab13a2be432b8cce7512dcb4f4_MITRES_6_002S08_chapter9.pdf
+file: /media/courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/8d15e7ab13a2be432b8cce7512dcb4f4_MITRES_6_002S08_chapter9.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Textbook contents
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: "Electromagnetic Field Theory - A Problem-Solving Approach \u2013 Chapter 9:\
   \ Radiation"
