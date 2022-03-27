@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Textbook contents
 parent_type: SupplementalResourceSection
+parent_uid: 781cf7ce-5cfc-eea8-d860-cb2207a215cd
 resourcetype: Document
 title: 'Electromagnetic Field Theory - A Problem-Solving Approach - Chapter 7: Problems'
 uid: d1b66b64-d3e7-e165-e98d-d3c161d72315

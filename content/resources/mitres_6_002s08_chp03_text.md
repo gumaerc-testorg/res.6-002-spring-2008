@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Textbook contents
 parent_type: SupplementalResourceSection
+parent_uid: 781cf7ce-5cfc-eea8-d860-cb2207a215cd
 resourcetype: Document
 title: MITRES_6_002S08_chp03_text.pdf
 uid: 2cccce32-2d38-7ccc-bc78-c3ed65843f49
