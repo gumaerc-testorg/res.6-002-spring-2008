@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: 'Textbook contents: Front-End Matter, Chapter 1: Review of Vector Analysis,
+  Chapter 2: The Electric Field, Chapter 3: Polarization and Conduction, Chapter 4:
+  Electric Field Boundary Value Problems, Chapter 5: The Magnetic Field, Chapter 6:
+  Electromagnetic Induction, Chapter 7: Electrodynamics-Fields and Waves, Chapter
+  8: Guided Electromagnetic Waves, and Chapter 9: Radiation.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Textbook contents
 uid: 781cf7ce-5cfc-eea8-d860-cb2207a215cd
 ---
 
-_Electromagnetic Field Theory_ as one file: [(PDF 1 of 3 - 3.9MB)]({{< baseurl >}}/resources/mitres_6_002s08_part1) [(PDF 2 of 3 -  3.2MB)]({{< baseurl >}}/resources/mitres_6_002s08_part2) [(PDF 3 of 3 - 3.3MB)]({{< baseurl >}}/resources/mitres_6_002s08_part3)
+_Electromagnetic Field Theory_ as one file: {{% resource_link c54b9fc6-2fd0-6b36-f657-dd7f0b08771d "(PDF 1 of 3 - 3.9MB)" %}} {{% resource_link 5593ac29-fd1e-e828-66da-c7a3c5715f89 "(PDF 2 of 3 -  3.2MB)" %}} {{% resource_link 6931134b-8797-0c0a-7920-bd2c873d1a5b "(PDF 3 of 3 - 3.3MB)" %}}
 
 Electromagnetic Field Theory Textbook Components
 
@@ -33,23 +38,23 @@ FILES
 {{< tdopen >}}
 
 
-Title page ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_titlepage))
+Title page ({{% resource_link 87762123-472b-a77a-f779-d2961650b161 "PDF" %}})
 
-Dedication ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_dedication))
+Dedication ({{% resource_link 6ec09b80-5aef-a2bb-47f9-2720d2bc0d09 "PDF" %}})
 
-Preface ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_preface))
+Preface ({{% resource_link 67ebdb55-6350-26e3-fc3b-3c32f91963d0 "PDF" %}})
 
-Note to the student and instructor ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_notes))
+Note to the student and instructor ({{% resource_link 1370275f-8b70-15ea-c637-bd24388473e0 "PDF" %}})
 
-Table of contents, ix-xix ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_content))
+Table of contents, ix-xix ({{% resource_link aead1bec-40c5-6d66-f4a5-41d58709749b "PDF" %}})
 
-Title page 2 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_titlepage2))
+Title page 2 ({{% resource_link 78c3aa70-9447-7174-1343-089f65280af3 "PDF" %}})
 
-Solutions to selected problems, pp. 699-710 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_solutions))
+Solutions to selected problems, pp. 699-710 ({{% resource_link 3cdf31f7-767c-b6c3-d231-cc82014d44db "PDF" %}})
 
-Index, pp. 711-723 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_index))
+Index, pp. 711-723 ({{% resource_link 58d52e86-cf6d-95b8-759a-52cbfba23824 "PDF" %}})
 
-Useful equations and constants ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_eqn_const))
+Useful equations and constants ({{% resource_link 058ddeaa-3e5b-ae7a-3d35-c4204f2aee03 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -60,7 +65,7 @@ Useful equations and constants ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Chapter 1: Review of Vector Analysis, pp. 1-48 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chapter1))**
+**Chapter 1: Review of Vector Analysis, pp. 1-48 ({{% resource_link aadd00c4-9274-3600-2530-deb5b73a273a "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,9 +90,9 @@ Problems, pp. 39-48
 {{< tdopen >}}
 
 
-Sections 1.1-1.5 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chap01_text))
+Sections 1.1-1.5 ({{% resource_link 346769f4-1a46-8554-dc3b-973ba83355d6 "PDF" %}})
 
-Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chap01_pset))
+Problems ({{% resource_link 330e41fd-db84-e1cf-807e-32943da44043 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chap01_pset))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Chapter 2: The Electric Field, pp. 49-134 ([PDF - 8MB]({{< baseurl >}}/resources/mitres_6_002s08_chapter2))**
+**Chapter 2: The Electric Field, pp. 49-134 ({{% resource_link 7957ff60-f747-028d-7db9-b3cc4f8fa0a0 "PDF - 8MB" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,9 +129,9 @@ Problems, pp. 110-134
 {{< tdopen >}}
 
 
-Sections 2.1-2.7 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp02_text))
+Sections 2.1-2.7 ({{% resource_link 7ee5ddbd-5e0a-bae7-53e4-212a9754ee23 "PDF" %}})
 
-Problems ([PDF - 2.7MB]({{< baseurl >}}/resources/mitres_6_002s08_chp02_pset))
+Problems ({{% resource_link 39b2c104-2cef-a43c-783b-ab1af2c67b91 "PDF - 2.7MB" %}})
 
 
 {{< tdclose >}}
@@ -134,7 +139,7 @@ Problems ([PDF - 2.7MB]({{< baseurl >}}/resources/mitres_6_002s08_chp02_pset))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Chapter 3: Polarization and Conduction, pp. 135-256 ([PDF - 1.9MB]({{< baseurl >}}/resources/mitres_6_002s08_chapter3))**
+**Chapter 3: Polarization and Conduction, pp. 135-256 ({{% resource_link 39ad8ce3-0f19-4097-1429-fd3b173523c1 "PDF - 1.9MB" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,9 +174,9 @@ Problems, pp. 231-256
 {{< tdopen >}}
 
 
-Sections 3.1-3.10 ([PDF - 1.4MB]({{< baseurl >}}/resources/mitres_6_002s08_chp03_text))
+Sections 3.1-3.10 ({{% resource_link 2cccce32-2d38-7ccc-bc78-c3ed65843f49 "PDF - 1.4MB" %}})
 
-Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp03_pset))
+Problems ({{% resource_link 66d0518b-d542-2719-8491-560e76f3838c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -179,7 +184,7 @@ Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp03_pset))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Chapter 4: Electric Field Boundary Value Problems, pp. 257-312 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chapter4))**
+**Chapter 4: Electric Field Boundary Value Problems, pp. 257-312 ({{% resource_link 659bc3f2-4650-95e4-d930-8538846cba5a "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,9 +209,9 @@ Problems, pp. 301-312
 {{< tdopen >}}
 
 
-Sections 4.1-4.5 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp04_text))
+Sections 4.1-4.5 ({{% resource_link 1b2b8ff3-57f3-8cc8-45cc-51fc6b59d309 "PDF" %}})
 
-Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp04_pset))
+Problems ({{% resource_link b354cbb8-0490-063f-a5b6-4f783ec767f2 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -214,7 +219,7 @@ Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp04_pset))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Chapter 5: The Magnetic Field, pp. 313-392 ([PDF - 1.2MB]({{< baseurl >}}/resources/mitres_6_002s08_chapter5))**
+**Chapter 5: The Magnetic Field, pp. 313-392 ({{% resource_link c3032bc0-c615-f6d7-52a6-50c45c63fed1 "PDF - 1.2MB" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,9 +250,9 @@ Problems, pp. 375-392
 {{< tdopen >}}
 
 
-Sections 5.1-5.8 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp05_text))
+Sections 5.1-5.8 ({{% resource_link bfed8537-ed6d-0dd8-9034-17fc62db460c "PDF" %}})
 
-Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp05_pset))
+Problems ({{% resource_link 34a9d987-9883-f477-5143-a5b5131a09f8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -255,7 +260,7 @@ Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp05_pset))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Chapter 6: Electromagnetic Induction, pp. 393-486 ([PDF - 2.7MB]({{< baseurl >}}/resources/mitres_6_002s08_chapter6))**
+**Chapter 6: Electromagnetic Induction, pp. 393-486 ({{% resource_link 097c0d0f-fd19-5130-67e4-85f2b4d50ef7 "PDF - 2.7MB" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,9 +287,9 @@ Problems, pp. 465-486
 {{< tdopen >}}
 
 
-Sections 6.1-6.6 ([PDF - 1.1MB]({{< baseurl >}}/resources/mitres_6_002s08_chp06_text))
+Sections 6.1-6.6 ({{% resource_link d515a1f7-f5ca-88fd-7d29-50ab8b0b2da9 "PDF - 1.1MB" %}})
 
-Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp06_pset))
+Problems ({{% resource_link bf605c2b-41c8-b6eb-9ad3-c3c64c91366d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -292,7 +297,7 @@ Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp06_pset))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Chapter 7: Electrodynamics-Fields and Waves, pp. 487-566 ([PDF - 1.2MB]({{< baseurl >}}/resources/mitres_6_002s08_chapter7))**
+**Chapter 7: Electrodynamics-Fields and Waves, pp. 487-566 ({{% resource_link 85a1dfee-8386-3a0b-ad0d-ee5c7305ec30 "PDF - 1.2MB" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -327,9 +332,9 @@ Problems, pp. 552-566
 {{< tdopen >}}
 
 
-Sections 7.1-7.10 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp07_text))
+Sections 7.1-7.10 ({{% resource_link a351c693-a668-be05-6fef-d2ffff0dc068 "PDF" %}})
 
-Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp07_pset))
+Problems ({{% resource_link d1b66b64-d3e7-e165-e98d-d3c161d72315 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -337,7 +342,7 @@ Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp07_pset))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Chapter 8: Guided Electromagnetic Waves, pp. 567-662 ([PDF - 1.6MB]({{< baseurl >}}/resources/mitres_6_002s08_chapter8))**
+**Chapter 8: Guided Electromagnetic Waves, pp. 567-662 ({{% resource_link bf398fbf-c5f7-7df7-e0f1-4d42b6797e25 "PDF - 1.6MB" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -366,9 +371,9 @@ Problems, pp. 649-662
 {{< tdopen >}}
 
 
-Sections 8.1-8.7 ([PDF - 1.5MB]({{< baseurl >}}/resources/mitres_6_002s08_chp08_text))
+Sections 8.1-8.7 ({{% resource_link 6cdf89ee-01ba-56c9-01c0-5b6a60dd97ed "PDF - 1.5MB" %}})
 
-Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp08_pset))
+Problems ({{% resource_link 08ef796c-0ec0-e8c8-ffd0-d9f5b0066d83 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -376,7 +381,7 @@ Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp08_pset))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Chapter 9: Radiation, pp. 663-698 ([PDF - 3.8MB]({{< baseurl >}}/resources/mitres_6_002s08_chapter9))**
+**Chapter 9: Radiation, pp. 663-698 ({{% resource_link 8d15e7ab-13a2-be43-2b8c-ce7512dcb4f4 "PDF - 3.8MB" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -399,9 +404,9 @@ Problems, pp. 695-698
 {{< tdopen >}}
 
 
-Sections 9.1-9.4 ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp09_text))
+Sections 9.1-9.4 ({{% resource_link 51f0d877-be85-3fc3-d15f-14a818407423 "PDF" %}})
 
-Problems ([PDF]({{< baseurl >}}/resources/mitres_6_002s08_chp09_pset))
+Problems ({{% resource_link b20ff666-f5ac-28d0-0304-687dcbd33634 "PDF" %}})
 
 
 {{< tdclose >}}
