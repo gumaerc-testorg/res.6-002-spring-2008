@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/346769f41a468554dc3b973ba83355d6_MITRES_6_002S08_chap01_text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook contents
 parent_type: SupplementalResourceSection
