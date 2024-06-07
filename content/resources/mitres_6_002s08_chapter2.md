@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/7957ff60f747028d7db9b3cc4f8fa0a0_MITRES_6_002S08_chapter2.pdf
+file_size: 8363881
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
