@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/346769f41a468554dc3b973ba83355d6_MITRES_6_002S08_chap01_text.pdf
+file: /courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/346769f41a468554dc3b973ba83355d6_MITRES_6_002S08_chap01_text.pdf
 file_size: 649680
 file_type: application/pdf
 learning_resource_types: []
