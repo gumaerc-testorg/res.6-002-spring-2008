@@ -43,10 +43,11 @@
     "website": "res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Problem Sets with Solutions"
   ],
   "site_uid": "cce167db-3fa3-47a3-b984-fdc72aaed85e",
   "site_short_id": "res.6-002-spring-2008",
+  "site_url_path": "courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008",
   "title": "Course Metadata"
 }
